@@ -1,5 +1,5 @@
 <div align="center">
- <h2>Hi im seoin🎈</h2>
+ <h2>Hi im seoin🎈 Bye</h2>
  
  <h3>⚒ Tech Stack ⚒</h3>
 
