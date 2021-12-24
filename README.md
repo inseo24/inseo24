@@ -1,7 +1,7 @@
 
 
  
- ![header](https://capsule-render.vercel.app/api?type=Waving&color=random&height=160&fontColor=ffffff&section=header&text=Hi!%20im%20seoin🧨&fontAlign=50&fontAlignY=70&fontSize=90)
+ ![header](https://capsule-render.vercel.app/api?type=Rect&color=random&height=160&fontColor=ffffff&section=header&text=Hi!%20im%20seoin🧨&fontAlign=50&fontAlignY=70&fontSize=90)
  
  
  <div align="center"> 
