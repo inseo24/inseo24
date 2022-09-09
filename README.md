@@ -6,7 +6,6 @@
 </p>
  
   <h3>hi, I'm seoin! :)</h3>
-  <p>Backend developer, mainly using <em>kotlin with spring</em> now.</p>
   <p>Have a good day!</p>
   <h3> 🕶 Contact </h3>
   <a href="mailto:befine324@gmail.com">
