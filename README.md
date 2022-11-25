@@ -1,4 +1,4 @@
- [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40befine324)](https://twitter.com/befine324)
+
  
 <div align="center"> 
  <p align="center">
@@ -7,10 +7,6 @@
  
   <h3>hi, I'm seoin! :)</h3>
   <p>Have a good day!</p>
-  <h3> 🕶 Contact </h3>
-  <a href="mailto:befine324@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
 </div>
 
 
